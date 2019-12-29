@@ -16,8 +16,15 @@ _ _ _
 > $ python3 main.py train
 >
 > $ python3 main.py predict img_1.jpg
->
+
 > $ python3 main.py web
+
+##### SCREENSHOTS #####
+
+![](screenshots/train.PNG)
+![](screenshots/2.PNG)
+![](screenshots/3.PNG)
+![](screenshots/7.PNG)
 _ _ _
 
 Website: https://vic.onl/
